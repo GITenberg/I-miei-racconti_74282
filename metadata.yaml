@@ -1,0 +1,37 @@
+_repo: I-miei-racconti_74282
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Panzacchi, Enrico
+    birthdate: 1840
+    deathdate: 1904
+    gutenberg_agent_id: '42056'
+    url: http://www.gutenberg.org/2009/agents/42056
+    wikipedia: https://it.wikipedia.org/wiki/Enrico_Panzacchi
+description: ''
+gutenberg_issued: '2024-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74282'
+language: it
+pgterms:marc905: 20230521092239panzacchi
+pgterms:marc906: '1889'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aMilano :$bTreves, $c1889.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Sesta edizione aumentata.
+subjects:
+- !lcsh 'Panzacchi, Enrico, 1840-1904'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Primo ricordo -- La mia unica traversata -- Dal taccuino d'un astemio
+  -- Al “Lohengrin„ -- Ombra mesta -- Coi sordini -- Lorenzetta -- Galatea -- Ai piedi
+  della Santa -- Povero Guermanetto! -- Infedeltà -- Fra Ginepro -- La statua -- Occhi
+  accusatori -- Al di là della siepe -- Dopo dieci anni -- In casa dell'amico -- Cantores
+  -- Evocazione -- Filomela -- In repubblica -- Primo passo.
+title: I miei racconti
+url: http://www.gutenberg.org/ebooks/74282
